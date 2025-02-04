@@ -4,15 +4,6 @@
 
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isjhd&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=isjhd&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=isjhd&theme=dark&hide_border=true" />
-</picture>
-
-
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
