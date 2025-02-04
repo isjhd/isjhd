@@ -1,6 +1,6 @@
 
 <!--图片-->
-<img src="img/213.png">
+<img src="img/动画.gif">
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
